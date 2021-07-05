@@ -1,3 +1,36 @@
+h1{
+    font-size: 60px;
+}
 body{
     font-size: 30px;
+    margin: 0px;
+}
+.namecolor{
+    color: orange;
+}
+section{
+    display: flex;
+   
+}
+.divwidth{
+    
+    width: 50%;
+    padding-left: 5%;
+
+}
+.divwidth img{
+    width: 95%;
+    padding-top: 7%;
+}
+.link-button{
+    text-decoration:none;
+    background-image: linear-gradient(red , tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+
+} .top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
